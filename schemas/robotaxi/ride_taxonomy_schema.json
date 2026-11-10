@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org",
+  "title": "BotDesk_Mobility_Robotaxi_Taxonomy",
+  "description": "Definitive schema for autonomous machine-to-machine passenger ride transactions",
+  "type": "object",
+  "required": [
+    "ride_id",
+    "vehicle_id",
+    "pickup_location",
+    "dropoff_location",
+    "passenger_capacity",
+    "dynamic_price_per_km",
+    "escrow_contract_address",
+    "protocol_fee_usd"
+  ],
+  "properties": {
+    "ride_id": {
+      "type": "string",
+      "description": "Unique session ID generated via rideid.eth"
+    },
+    "vehicle_id": {
+      "type": "string",
+      "description": "Cryptographic vehicle identifier string mapped to roboride.eth"
+    },
+    "pickup_location": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": { "type": "number" },
+      "description": "GPS coordinates [latitude, longitude] for consumer pickup"
+    },
+    "dropoff_location": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": { "type": "number" },
+      "description": "GPS coordinates [latitude, longitude] for destination drop-off"
+    },
+    "passenger_capacity": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Available passenger seating capacity via robotaxiclass.eth"
+    },
+    "dynamic_price_per_km": {
+      "type": "number",
+      "minimum": 0.0,
+      "description": "Real-time cryptographically signed pricing metric via riderate.eth"
+    },
+    "escrow_contract_address": {
+      "type": "string",
+      "pattern": "^0x[a-fA-F0-9]{40}$",
+      "description": "On-chain settlement escrow smart contract via rideescrow.eth"
+    },
+    "streaming_payment_supported": {
+      "type": "boolean",
+      "default": true,
+      "description": "Flag enabling per-meter real-time payment streaming settlement"
+    },
+    "protocol_fee_usd": {
+      "type": "number",
+      "const": 0.05,
+      "description": "Hardcoded universal public utility platform fee for BotDesk architecture"
+    }
+  }
+}
