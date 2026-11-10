@@ -2,7 +2,6 @@
 ### The Autonomous Web2.5 Foundation for AI-Agents in Passenger Mobility
 
 Anticipating a yearly billion bookings market massive transforming. 
-
 The passenger mobility sector is breaking out of its legacy "walled gardens" driven by critical market triggers:
 
 * **The Big Tech Battle:** A global race to decentralize data routing and counter Google's monopoly on mobility mapping and transit infrastructure.
