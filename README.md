@@ -21,14 +21,14 @@ mobility.agent.botdesk
 
 ---
 
-### 📂 Repository Structure
+### Repository Structure
 * **`/core-architecture`** – Contains `M2M_ENS_REGISTRY.md` (The master M2M on-chain ENS directory).
 * **`/schemas/robotaxi`** – Contains `ride_taxonomy_schema.json` (Data model for on-demand passenger rides).
 * **`/schemas/rental`** – Contains `rental_taxonomy_schema.json` (Data model for traditional & autonomous car rentals).
 
 ---
 
-### 🗺️ The 7-Step Taxonomy & Registry Lifecycle
+### The 7-Step Taxonomy & Registry Lifecycle
 Each operational step maps real-world mobility logic directly to validated on-chain ENS registry endpoints:
 
 1. **Discovery & Filtering (The Market Scan)**
@@ -56,14 +56,14 @@ Each operational step maps real-world mobility logic directly to validated on-ch
 
 ---
 
-### 🛠️ Technical Roadmap
+### Technical Roadmap
 * **Phase 1 (Current Status):** Core logical frameworks, taxonomy boundaries, and structural validation JSON-schemas for both **Robotaxi** and **Rental** sectors are fully finalized and open for review.
 * **Phase 2 (Immediate Next Step):** Compiling the core taxonomy datasets into a unified **OpenAPI 3.0 (Swagger) Specification** (`openapi.yaml`) to enable automated SDK generation in TypeScript, Python, Go, and Rust.
 * **Phase 3 (Ecosystem Scaling):** Launching developer guidelines and open-source Web2.5 API wrapper templates.
 
 ---
 
-### ⚖️ Open Source Licensing & Core Architecture Partnership
+### Open Source Licensing & Core Architecture Partnership
 The passenger mobility data taxonomy and JSON-schemas contained in this repository are open-source under the MIT License and free to use for integration into external AI-agent frameworks to foster global machine-to-machine (M2M) standardization.
 
 **Crucial Architecture Notice:** 
@@ -71,5 +71,5 @@ To guarantee network trust, absolute security, and fraud-proof capital settlemen
 
 Integration with the official, validated settlement network requires a certified partnership. As a commercial entrepreneur with a clear vision and focus, I am inviting Web3 developers, ecosystem builders, and business developers to build or integrate the data-layer for the future mobility market. 
 
-📩 **Strategic Licensing & Co-Founding Dialogues:**
+**Strategic Licensing & Co-Founding Dialogues:**
 If you understand the scale of the upcoming passenger agent-economy and want to participate, let’s connect directly. Serious inquiries regarding core smart contract execution, private data room access, or technical co-founding structures in Amsterdam/Hybrid are exclusively handled via direct communication. Reach out directly via LinkedIn DM.
