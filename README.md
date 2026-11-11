@@ -27,9 +27,7 @@ Botdesk mobility is changing the rules of the game by introducing a cross-chain,
 
 Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, while systematically digitalizing the backend execution into a fully automated, machine-to-machine ecosystem.
 
-As a commercial entrepreneur with a clear vision and focus, I am inviting visionary Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of mobility. Explore the taxonomy, architecture, and partnership opportunities directly on our gateway:
-
-mobility.agent.botdesk
+As a commercial entrepreneur with a clear vision and focus, I am inviting visionary Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of mobility. Explore the taxonomy, architecture, and partnership opportunities directly on our gateway: mobility.agent.botdesk **Connect directly via [LinkedIn](https://linkedin.com)** to initiate a strategic dialogue.
 
 ---
 
