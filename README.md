@@ -23,7 +23,7 @@ Anticipating a massive mobility transformation on the way, driven by critical ma
 
 
 
-Botdesk mobility is changing the rules of the game by introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the new era. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
+Botdesk mobility is changing the rules of the game by introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the agentic economy. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
 
 Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, while systematically digitalizing the backend execution into a fully automated, machine-to-machine ecosystem.
 
