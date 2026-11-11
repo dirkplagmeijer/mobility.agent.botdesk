@@ -7,7 +7,9 @@
 Anticipating a massive mobility transformation on the way, driven by critical market forces:
 --------------------------------------------------------------------------------------------
 ➔ Global Big Tech race to build travel agents to counter Google’s monopoly
+
 ➔ Aggretators mobility networks cautiously accommodate plug-in API frameworks (Lyko)
+
 ➔ M2M Cost Efficiency
 ➔ Airport Disruption: car rental revenues are threatened as travelers enjoy seamless robo pickup and drop-off.
 ➔ Optimized fleet utilization
