@@ -1,8 +1,7 @@
 #### mobility.agent.botdesk
 
 
-# The AI-Agent Web2.5 Foundation in Robo & Rental Passenger Mobility
-
+# The Web2.5 Foundation for AI-Agents in Robo & Rental Passenger Mobility
 
 
 Anticipating a massive mobility transformation on the way, driven by critical market forces:
