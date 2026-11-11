@@ -1,6 +1,8 @@
 # mobility.agent.botdesk
 
+
 ### The Autonomous Web2.5 Foundation for AI-Agents in Passenger Mobility
+
 
 
 Anticipating a massive infrastructural transformation on the way, driven by critical market forces:
