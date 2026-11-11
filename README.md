@@ -1,11 +1,11 @@
 #### mobility.agent.botdesk
 
 
-### The Autonomous Web2.5 Foundation for AI-Agents in Passenger Mobility
+## The Autonomous Web2.5 Foundation for AI-Agents in Passenger Mobility
 
 
 
-Anticipating a massive infrastructural transformation on the way, driven by critical market forces:
+####Anticipating a massive infrastructural transformation on the way, driven by critical market forces:
 ---------------------------------------------------------------------------------------------------
 --1--Global Big Tech race to build travel agents to counter Google’s monopoly
 --2--Aggretators mobility networks cautiously accommodate plug-in API frameworks (Lyko)
