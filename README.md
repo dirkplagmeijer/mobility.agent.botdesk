@@ -29,7 +29,7 @@ Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agent
 
 As a commercial entrepreneur with a clear vision and focus, I am inviting visionary Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of mobility. Explore the taxonomy, architecture, and partnership opportunities directly on our gateway: mobility.agent.botdesk 
 
-**Connect directly via [LinkedIn](https://linkedin.com)** to initiate a strategic dialogue.
+**Connect directly via [LinkedIn](https://linkedin.com/in/dirk-plagmeijer)** to initiate a strategic dialogue.
 
 ---
 
