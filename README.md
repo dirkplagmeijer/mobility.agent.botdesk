@@ -5,8 +5,8 @@
 
 
 
-Anticipating a massive infrastructural transformation on the way, driven by critical market forces:
----------------------------------------------------------------------------------------------------
+Anticipating a massive mobility transformation on the way, driven by critical market forces:
+--------------------------------------------------------------------------------------------
 --1--Global Big Tech race to build travel agents to counter Google’s monopoly
 --2--Aggretators mobility networks cautiously accommodate plug-in API frameworks (Lyko)
 --3--M2M Cost Efficiency
