@@ -83,6 +83,6 @@ To guarantee network trust, absolute security, and fraud-proof capital settlemen
 Integration with this proprietary settlement module requires a certified cooperation.
 
 **Strategic Licensing & Co-Founding Dialogues:**
-Inquiries regarding core smart contract execution, private data room access, or in-depth cooperation structures are welcomed via direct communication. If you understand the upcoming transformation of the passenger mobility agent-economy, please reach out via [LinkedIn](https://linkedin.com/in/dirk-plagmeijer)
+Inquiries regarding core smart contract execution, private data room access, or in-depth cooperation structures are welcomed via a meeting or personal call. If you understand the upcoming transformation of the passenger mobility agent-economy, please contact me via [LinkedIn](https://linkedin.com/in/dirk-plagmeijer)
 
 
