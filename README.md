@@ -81,9 +81,10 @@ The passenger mobility data taxonomy and JSON-schemas contained in this reposito
 **Crucial Architecture Notice:** 
 To guarantee network trust, absolute security, and fraud-proof capital settlement, the core on-chain Payment and Escrow Smart Contract Module is strictly proprietary. This transactional engine—which hardcodes the universal $0.05 protocol fee—is not publicly deployed here. 
 
-Integration with this proprietary settlement module requires a certified partnership.
+Integration with this proprietary settlement module requires a certified cooperation.
 
 **Strategic Licensing & Co-Founding Dialogues:**
+
 Inquiries regarding core smart contract execution, private data room access, or in-depth cooperation structures are welcomed via direct communication. If you understand the upcoming transformation of the passenger mobility agent-economy, please reach out via LinkedIn DM.
 
 
