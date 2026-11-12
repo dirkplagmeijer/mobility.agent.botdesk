@@ -14,7 +14,7 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 * `roboride.eth`, `roborides.eth`, `taxiride.eth`, `taxirides.eth`, `driverlessride.eth`, `driverlesstaxi.eth`
 * `roboridesearch.eth`, `robotaxisearch.eth`, `taxiridesearch.eth`
 * `ridehub.eth`, `roboridehub.eth`, `taxihub.eth`, `robotaxihub.eth`, `taxiridehub.eth`
-* `rideairport.eth`, `roborideairport.eth`, `airportroboride.eth`, `robotaxiairport.eth`, `airportrobotaxi.eth`, `taxiairport.eth`, `airporttaxi.eth`, `taxirideairport.eth`
+* `rideairport.eth`, `roborideairport.eth`, `taxiairport.eth`, `robotaxiairport.eth`, `taxirideairport.eth`, `airportroboride.eth`, `airporttaxi.eth`, `airportrobotaxi.eth`
 
 **Rental Endpoints**
 * `carrental.eth`, `rentalcar.eth`, `roborental.eth`, `roborentalcar.eth`, `robocarrental.eth`
@@ -48,7 +48,8 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 * `carrentalavailable.eth`, `rentalcaravailable.eth`, `robocarrentalavailable.eth`, `roborentalcaravailable.eth`
 * `carrentalavailability.eth`, `rentalcaravailability.eth`, `robocarrentalavailability.eth`, `roborentalcaravailability.eth`
 * `carrentalrate.eth`, `rentalcarrate.eth`, `carrentalrates.eth`, `rentalcarrates.eth`
-* `carrentalmake.eth`, `rentalcarmake.eth`, `carrentalmodel.eth`, `rentalcarmodel.eth`
+* `carrentalmake.eth`, `rentalcarmake.eth`
+* `carrentalmodel.eth`, `rentalcarmodel.eth`
 * `carrentalquote.eth`, `rentalcarquote.eth`, `rentalquote.eth`
 * `carrentalexpiration.eth`, `rentalcarexpiration.eth`, `rentalexpiration.eth`
 * `carrentaloracle.eth`, `rentalcaroracle.eth`, `carrentaloracles.eth`, `rentalcaroracles.eth`
@@ -91,14 +92,14 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 * `bookingpayment.eth`, `bookingpayments.eth`, `transactionpayments.eth`
 
 **Robotaxi Endpoints**
-* `makeride.eth`, `ridebooking.eth`, `roboridebooking.eth`, `taxibooking.eth`, `robotaxibooking.eth`, `taxiridebooking.eth`
+* `ridebooking.eth`, `roboridebooking.eth`, `taxibooking.eth`, `robotaxibooking.eth`, `taxiridebooking.eth`, `makeride.eth`
 * `ridelock.eth`, `roboridelock.eth`, `robotaxilock.eth`, `taxiridelock.eth`
 * `rideescrow.eth`, `roborideescrow.eth`, `taxiescrow.eth`, `robotaxiescrow.eth`, `taxirideescrow.eth`
 * `roboridedeposit.eth`, `robotaxideposit.eth`
 * `ridepayment.eth`, `roboridepayment.eth`, `taxipayment.eth`, `robotaxipayment.eth`, `taxiridepayment.eth`, `ridepayments.eth`
 
 **Rental Endpoints**
-* `makerental.eth`, `carrentalbooking.eth`, `rentalcarbooking.eth`, `robocarrentalbooking.eth`, `roborentalcarbooking.eth`
+* `carrentalbooking.eth`, `rentalcarbooking.eth`, `robocarrentalbooking.eth`, `roborentalcarbooking.eth`, `makerental.eth`
 * `carrentalconfirmation.eth`, `rentalcarconfirmation.eth`, `rentalconfirmation.eth`
 * `carrentalescrow.eth`, `rentalcarescrow.eth`
 * `carrentaldeposit.eth`, `rentalcardeposit.eth`, `rentaldeposit.eth`
@@ -114,7 +115,7 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 **Robotaxi Endpoints**
 * `ridepickup.eth`, `roboridepickup.eth`, `taxipickup.eth`, `robotaxipickup.eth`, `taxiridepickup.eth`
 * `ridelocation.eth`, `roboridelocation.eth`, `robotaxilocation.eth`, `taxiridelocation.eth`
-* `unlockcar.eth`, `unlockride.eth`, `unlocktaxi.eth`, `unlockrobotaxi.eth`
+* `unlockride.eth`, `unlocktaxi.eth`, `unlockrobotaxi.eth`, `unlockcar.eth`
 
 **Rental Endpoints**
 * `carrentalpickup.eth`, `rentalcarpickup.eth`, `startrental.eth`
@@ -171,4 +172,3 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 * `carrentaldispute.eth`, `rentalcardispute.eth`, `rentaldispute.eth`
 * `carrentalclaim.eth`, `rentalcarclaim.eth`, `carrentalclaims.eth`, `rentalcarclaims.eth`, `robocarrentalclaim.eth`, `roborentalcarclaim.eth`
 * `carrentalrefund.eth`, `rentalcarrefund.eth`, `rentalrefund.eth`
-
