@@ -8,7 +8,7 @@ Anticipating a massive mobility transformation on the way, driven by critical ma
 --------------------------------------------------------------------------------------------
 ➔ Global Big Tech race to build travel agents to counter Google’s monopoly
 
-➔ Aggregators mobility networks cautiously accommodate plug-in API frameworks (Lyko)
+➔ Aggregator mobility networks cautiously accommodate plug-in API frameworks (Lyko)
 
 ➔ M2M Cost Efficiency
 
@@ -81,7 +81,7 @@ The passenger mobility data taxonomy and JSON-schemas contained in this reposito
 **Crucial Architecture Notice:** 
 To guarantee network trust, absolute security, and fraud-proof capital settlement, the core on-chain Payment and Escrow Smart Contract Module is strictly proprietary. This transactional engine—which hardcodes the universal $0.05 protocol fee—is not publicly deployed here. 
 
-Integration with the official, validated settlement network requires a certified partnership. As a commercial entrepreneur with a clear vision and focus, I am inviting Web3 developers, ecosystem builders, and business developers to build or integrate the data-layer for the future mobility market. 
+Integration with this proprietary settlement module requires a certified partnership. I am inviting Web3 developers, ecosystem builders, and business developers to build or integrate the data-layer for the future mobility market. 
 
 **Strategic Licensing & Co-Founding Dialogues:**
 If you understand the scale of the upcoming passenger agent-economy and want to participate, let’s connect directly. Serious inquiries regarding core smart contract execution, private data room access, or technical co-founding structures in Amsterdam/Hybrid are exclusively handled via direct communication. Reach out directly via LinkedIn DM.
