@@ -11,17 +11,17 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 * `ridesearch.eth`, `taxisearch.eth`
 
 **Robotaxi Endpoints**
-* `roboride.eth`, `roborides.eth`, `taxiride.eth`, `taxirides.eth`, `driverlessride.eth`, `driverlesstaxi.eth`
+* `roboride.eth`, `roborides.eth`, `taxiride.eth`, `taxirides.eth`, `driverlessride.eth`, `driverlesstaxi.eth`, `airportroboride.eth`, `airporttaxi.eth`, `airportrobotaxi.eth`
 * `roboridesearch.eth`, `robotaxisearch.eth`, `taxiridesearch.eth`
 * `ridehub.eth`, `roboridehub.eth`, `taxihub.eth`, `robotaxihub.eth`, `taxiridehub.eth`
-* `rideairport.eth`, `roborideairport.eth`, `taxiairport.eth`, `robotaxiairport.eth`, `taxirideairport.eth`, `airportroboride.eth`, `airporttaxi.eth`, `airportrobotaxi.eth`
+* `rideairport.eth`, `roborideairport.eth`, `taxiairport.eth`, `robotaxiairport.eth`, `taxirideairport.eth`
 
 **Rental Endpoints**
-* `carrental.eth`, `rentalcar.eth`, `roborental.eth`, `roborentalcar.eth`, `robocarrental.eth`
+* `carrental.eth`, `rentalcar.eth`, `roborental.eth`, `roborentalcar.eth`, `robocarrental.eth`, `airportrentalcar.eth`
 * `carrentalsearch.eth`, `rentalcarsearch.eth`, `robocarrentalsearch.eth`, `roborentalcarsearch.eth`
 * `carrentallocation.eth`, `rentalcarlocation.eth`
 * `carrentalhub.eth`, `rentalcarhub.eth`
-* `carrentalairport.eth`, `rentalcarairport.eth`, `airportrentalcar.eth`
+* `carrentalairport.eth`, `rentalcarairport.eth`
 * `carrentaldepot.eth`, `rentalcardepot.eth`, `carrentaldepots.eth`, `rentalcardepots.eth`
 * `carrentalsupplier.eth`, `rentalcarsupplier.eth`, `carrentalsuppliers.eth`, `rentalcarsuppliers.eth`
 * `carrentalcategory.eth`, `rentalcarcategory.eth`
