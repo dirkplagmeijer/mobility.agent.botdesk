@@ -4,28 +4,29 @@
 # The Web2.5 Layer for AI-Agents in Robo & Rental Passenger Mobility
 
 
-Anticipating a massive mobility transformation on the way, driven by critical market forces:
+Anticipating a mayor mobility transformation on the way, driven by critical market forces:
 --------------------------------------------------------------------------------------------
-➔ Global Big Tech race to build travel agents to counter Google’s monopoly
+➔ Global Big Tech race to build travel agents.
 
-➔ Aggregator mobility networks cautiously accommodate plug-in API frameworks (Lyko)
+➔ Aggregator mobility networks cautiously accommodate plug-in API frameworks (Lyko).
 
-➔ M2M Cost Efficiency
+➔ M2M Cost Efficiency.
 
 ➔ Airport Disruption: car rental revenues are threatened as travelers enjoy seamless robo pickup and drop-off.
 
-➔ Optimized fleet utilization
+➔ Optimized fleet utilization.
 
-➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards
+➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
 
-➔ Passenger mobility globally runs in the trillion dollars
-
-
+➔ Passenger mobility globally runs in the trillion dollars.
 
 
-Botdesk mobility is changing the rules of the game by introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the agentic economy. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
 
-Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, while systematically digitalizing the backend execution into a fully automated, machine-to-machine ecosystem.
+
+Botdesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the agentic economy. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
+
+Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, enabling the mobility ecosystem to systematically transition backend execution into a fully automated, machine-to-machine network.
+
 
 I am a commercial entrepreneur with a clear vision and focus, inviting visionary Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of passenger mobility under the `mobility.agent.botdesk` architecture.
 
