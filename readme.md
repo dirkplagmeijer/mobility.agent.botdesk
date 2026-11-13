@@ -51,16 +51,16 @@ Each operational step maps real-world mobility logic directly to validated on-ch
 3. **Verification & Policy (Identity & Compliance)**
    * *Robotaxi:* Verifies operator trust-scores and trip compliance via `rideverification.eth` and `ridepolicy.eth`.
    * *Rental:* Validates Decentralized Identifiers (DIDs) and privacy-preserving Zero-Knowledge Proofs (ZKPs) for digital driver's licenses via `rentaldriverslicense.eth`.
-4. **Booking & Transaction Lock (Securing the Reservation)**
-   * *Shared Network Layer:* Requires a certified `settlement_token` issued by the proprietary settlement module to authorize binding bookings.
-   * *Robotaxi:* Locks the upcoming vehicle via `ridebooking.eth`.
-   * *Rental:* Secures multi-day reservations via `carrentalbooking.eth`.
+4. **Booking, Escrow & Payment (Locking the Transaction)**
+   * *Shared Network Layer:* Requires a certified `settlement_token` issued by the proprietary settlement module to authorize binding bookings and on-chain escrow.
+   * *Robotaxi:* Locks the upcoming vehicle and initializes trip escrow via `ridelock.eth` and `rideescrow.eth`.
+   * *Rental:* Secures multi-day reservations and locks required crypto security deposits via `carrentalescrow.eth` and `carrentaldeposit.eth`.
 5. **Access, Execution & Telemetry (The Physical Handover)**
    * *Robotaxi:* Tracks approaching GPS coordinates and executes secure door unlocking via `unlockrobotaxi.eth` and `ridelocation.eth`.
    * *Rental:* Processes digital damage inspections and reads initial fuel/battery metrics via `carrentalinspection.eth` and `carrentalfuel.eth`.
-6. **Return, Completion & Invoicing (Network Exit)**
-   * *Robotaxi:* Concludes the localized trip and anchors the cryptographic invoice via `rideinvoice.eth`.
-   * *Rental:* Coordinates vehicle drop-off, checks for new damage, and triggers final invoicing via `carrentalreturn.eth` and `carrentalfinalinvoice.eth`.
+6. **Return, Invoice & Settlement (Completion & Final Settlement)**
+   * *Robotaxi:* Concludes the localized trip, finalizes streaming payments, and anchors the invoice via `ridesettlement.eth` and `rideinvoice.eth`.
+   * *Rental:* Coordinates vehicle drop-off, checks for new damage, and executes deposit release via `carrentalreturn.eth` and `carrentaldepositrelease.eth`.
 7. **Calamities & Post-Rental (Incident & Dispute Management)**
    * *Robotaxi:* Manages route modifications, ride cancellations, and accident telemetry snapshots via `ridedispute.eth` and `robocaraccident.eth`.
    * *Rental:* Handles lease extensions, breakdown logistics, and algorithmic damage claims via `carrentalclaim.eth` and `carrentaldamageclaim.eth`.
