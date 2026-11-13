@@ -5,17 +5,17 @@
 
 >Global Big Tech race to build travel agents.
 >
-> ➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
+>Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
 >
-> ➔ M2M Cost Efficiency.
+>M2M Cost Efficiency.
 >
-> ➔ Airport Disruption: rentalcar companies have to adapt to travelers enjoying seamless robo pickup and drop-off.
+>Airport Disruption: rentalcar companies have to adapt to travelers enjoying seamless robo pickup and drop-off.
 >
-> ➔ Optimized fleet utilization.
+>Optimized fleet utilization.
 >
-> ➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
+>AI travel assistants deployed by Big Tech require unified, open data M2M standards.
 >
-> ➔ Passenger mobility globally runs in the trillion dollars.
+>Passenger mobility globally runs in the trillion dollars.
 
 
 
