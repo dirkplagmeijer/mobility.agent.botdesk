@@ -5,7 +5,7 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 
 ---
 
-##### 📂 Step 1: Discovery & Filtering (The Passenger Market Scan)
+### 📂 Step 1: Discovery & Filtering (The Passenger Market Scan)
 
 **Shared Core**
 * `ridesearch.eth`, `taxisearch.eth`
