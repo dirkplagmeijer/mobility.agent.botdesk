@@ -6,11 +6,11 @@ Anticipating a major mobility transformation on the way, driven by critical mark
 
 ➔ Global Big Tech race to build travel agents. 
 
-➔ Aggregator mobility networks cautiously accommodate plug-in API frameworks (Lyko). 
+➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko). 
 
 ➔ M2M Cost Efficiency.
 
-➔ Airport Disruption: car rental revenues are threatened as travelers enjoy seamless robo pickup and drop-off.
+➔ Airport Disruption: rentalcar compagnies have to adapt to travelers enjoying seam less robo pickup and drop-off.
 
 ➔ Optimized fleet utilization.
 
