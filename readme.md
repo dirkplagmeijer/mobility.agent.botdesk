@@ -23,7 +23,8 @@
 
 BotDesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that provides the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
 
-Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, enabling the mobility ecosystem to systematically transition backend execution into a fully automated, machine-to-machine network.
+We offer a hybrid Web2.5 discovery gateway for AI agents on which a fully automated, machine-to-machine network can be built and scaled.
+
 
 I am a commercial entrepreneur with a clear vision and focus, inviting visionary Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of passenger mobility under the `mobility.agent.botdesk` architecture.
 
