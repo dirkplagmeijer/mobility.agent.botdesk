@@ -1,24 +1,12 @@
-##### mobility.agent.botdesk
-# The Web2.5 Layer for AI-Agents in Robo & Rental Passenger Mobility
+#### mobility.agent.botdesk
+## The Web2.5 Layer for AI-Agents in Robo & Rental Passenger Mobility
 
+### Anticipating a major mobility transformation on the way, driven by critical market forces:
 
-## Anticipating a major mobility transformation on the way, driven by critical market forces:
+| Key Market Forces Driving the Transformation |
+| :--- |
+| ➔ Global Big Tech race to build travel agents.<br><br>➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).<br><br>➔ M2M Cost Efficiency.<br><br>➔ Airport Disruption: rentalcar companies have to adapt to travelers enjoying seamless robo pickup and drop-off.<br><br>➔ Optimized fleet utilization.<br><br>➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.<br><br>➔ Passenger mobility globally runs in the trillion dollars. |
 
-
-> [!NOTE]
-> ➔ Global Big Tech race to build travel agents.
->
-> ➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
->
-> ➔ M2M Cost Efficiency.
->
-> ➔ Airport Disruption: rentalcar companies have to adapt to travelers enjoying seamless robo pickup and drop-off.
->
-> ➔ Optimized fleet utilization.
->
-> ➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
->
-> ➔ Passenger mobility globally runs in the trillion dollars.
 
 
 
