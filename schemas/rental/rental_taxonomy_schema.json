@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org",
   "title": "BotDesk_Mobility_Rental_Taxonomy",
-  "description": "Definitive schema for traditional and autonomous car rental fleet transactions",
+  "description": "Definitive open-source data schema for traditional and autonomous car rental fleet transactions",
   "type": "object",
   "required": [
     "rental_id",
@@ -10,8 +10,7 @@
     "rental_duration_days",
     "base_daily_rate_usd",
     "requires_zk_driver_license",
-    "escrow_deposit_amount_wei",
-    "protocol_fee_usd"
+    "settlement_token"
   ],
   "properties": {
     "rental_id": {
@@ -40,21 +39,15 @@
       "type": "boolean",
       "description": "Mandatory cryptographic verification indicator via rentaldriverslicense.eth"
     },
-    "escrow_deposit_amount_wei": {
-      "type": "integer",
-      "minimum": 0,
-      "description": "Locked smart contract crypto asset security collateral via carrentaldeposit.eth"
-    },
     "initial_fuel_or_battery_percentage": {
       "type": "integer",
       "minimum": 0,
       "maximum": 100,
       "description": "Pre-rental baseline telemetry check mapped to carrentalfuel.eth"
     },
-    "protocol_fee_usd": {
-      "type": "number",
-      "const": 0.05,
-      "description": "Hardcoded universal public utility platform fee for BotDesk architecture"
+    "settlement_token": {
+      "type": "string",
+      "description": "Certified handshake token issued by the proprietary BotDesk settlement module"
     }
   }
 }
