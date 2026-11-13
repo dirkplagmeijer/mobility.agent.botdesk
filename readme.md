@@ -5,7 +5,7 @@
 ## Anticipating a major mobility transformation on the way, driven by critical market forces:
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > ➔ Global Big Tech race to build travel agents.
 >
 > ➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
