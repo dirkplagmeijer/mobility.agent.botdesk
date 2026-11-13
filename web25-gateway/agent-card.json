@@ -2,13 +2,13 @@
   "name": "BotDesk Mobility Gateway",
   "description": "Platform-neutral Web2.5 M2M routing gateway for autonomous Robotaxi rides and Rental passenger fleets, backed by verified ENS endpoints.",
   "version": "1.0.0",
-   "provider": {
+    "provider": {
     "organization": "BotDesk Mobility",
     "url": "https://github.com"
   },
   "supportedInterfaces": [
     {
-      "url": "https://JOUW-EXACTE-WORKER-NAAM.workers.dev",
+      "url": "https://botdesk-gateway.dirk-plagmeijer.workers.dev",
       "protocolBinding": "JSONRPC",
       "protocolVersion": "1.0"
     }
