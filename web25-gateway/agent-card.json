@@ -8,7 +8,7 @@
   },
   "supportedInterfaces": [
     {
-      "url": "https://botdesk-gateway.dirk-plagmeijer.workers.dev",
+      "url": "https://botdesk-gateway.dirk-d7b.workers.dev",
       "protocolBinding": "JSONRPC",
       "protocolVersion": "1.0"
     }
