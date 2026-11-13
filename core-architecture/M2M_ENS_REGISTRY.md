@@ -1,5 +1,6 @@
 # BotDesk Mobility: Master M2M ENS Domain Registry
-### The Definitive On-Chain Routing Directory for Autonomous Passenger Fleet Infrastructure
+### The Definitive On-Chain Routing Directory for Robo & Rental Passenger Mobility
+
 
 This registry catalogs the complete network of validated Ethereum Name Service (ENS) endpoints owned and deployed by BotDesk Mobility. Endpoints are grouped by operational function across 7 deployment steps for both **Robotaxi** and **Rental** ecosystems.
 
