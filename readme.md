@@ -3,7 +3,6 @@
 
 ### Anticipating a major mobility transformation on the way, driven by critical market forces:
 
-> [!NOTE]
 > ➔ Global Big Tech race to build travel agents.
 >
 > ➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
@@ -17,6 +16,7 @@
 > ➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
 >
 > ➔ Passenger mobility globally runs in the trillion dollars.
+
 
 
 
