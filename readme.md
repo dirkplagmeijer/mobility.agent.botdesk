@@ -21,6 +21,7 @@
 
 ➔ Passenger mobility globally runs in the trillion dollars.
 
+
 BotDesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the agentic economy. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
 
 Our pragmatic roadmap launches as a hybrid Web2.5 discovery gateway for AI agents, enabling the mobility ecosystem to systematically transition backend execution into a fully automated, machine-to-machine network.
