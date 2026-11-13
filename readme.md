@@ -35,7 +35,7 @@ I am a commercial entrepreneur with a clear vision and focus, inviting Web3 deve
 ### 📂 Repository Structure
 * **`/core-architecture`** – Contains `M2M_ENS_REGISTRY.md` (The master M2M on-chain ENS directory).
 * **`/schemas/robotaxi`** – Contains `ride_taxonomy_schema.json` (Data model for on-demand passenger rides).
-* **`/schemas/rental`** – Contains `rental_taxonomy_schema.json` (Data model for traditional & robo car rentals).
+* **`/schemas/rental`** – Contains `rental_taxonomy_schema.json` (Data model for Robo & Rentals).
 * **`/web25-gateway`** – Contains `agent-card.json` (A2A discovery manifest), `adk_consumer_example.py`, `adk_gateway_router.py` (Google ADK integration), and `cloudflare_worker.js` (serverless edge gateway).
 
 ---
