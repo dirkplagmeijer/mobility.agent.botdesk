@@ -14,7 +14,7 @@ This registry catalogs the complete network of validated Ethereum Name Service (
 **Robotaxi Endpoints**
 * `roboride.eth`, `roborides.eth`, `taxiride.eth`, `taxirides.eth`, `driverlessride.eth`, `driverlesstaxi.eth`, `airportroboride.eth`, `airporttaxi.eth`, `airportrobotaxi.eth`
 * `roboridesearch.eth`, `robotaxisearch.eth`, `taxiridesearch.eth`
-* `ridehub.eth`, `roboridehub.eth`, `taxihub.eth`, `robotaxihub.eth`, `taxiridehub.eth`
+* `ridehub.eth`,`airportride.eth`, `roboridehub.eth`, `taxihub.eth`, `robotaxihub.eth`, `taxiridehub.eth`
 * `rideairport.eth`, `roborideairport.eth`, `taxiairport.eth`, `robotaxiairport.eth`, `taxirideairport.eth`
 
 **Rental Endpoints**
