@@ -26,7 +26,7 @@
     "extensions": [
       {
         "uri": "https://ens.domains",
-        "description": "On-chain ENS endpoint routing and $0.05 escrow settlement verification",
+        "description": "On-chain ENS endpoint routing and certified settlement token verification",
         "required": false
       }
     ]
@@ -80,18 +80,17 @@
     },
     {
       "id": "mobility.booking_escrow",
-      "name": "Step 4: Booking, Escrow & Capital Settlement",
-      "description": "Locks vehicles and initializes M2M smart contract escrow with the $0.05 protocol fee.",
+      "name": "Step 4: Booking & Transaction Lock",
+      "description": "Locks vehicles and validates the certified settlement_token issued by the proprietary settlement module.",
       "tags": [
         "booking",
-        "escrow",
-        "payment",
-        "ens:rideescrow.eth",
-        "ens:carrentalescrow.eth"
+        "settlement-token",
+        "ens:ridebooking.eth",
+        "ens:carrentalbooking.eth"
       ],
       "examples": [
-        "Lock robotaxi vehicle and fund trip escrow",
-        "Confirm rental reservation and lock security deposit"
+        "Lock robotaxi vehicle with certified settlement token",
+        "Confirm rental reservation via certified settlement handshake"
       ]
     },
     {
@@ -111,27 +110,27 @@
     },
     {
       "id": "mobility.settlement",
-      "name": "Step 6: Return, Deposit Release & Invoicing",
-      "description": "Concludes trips, calculates local city/tourist taxes, releases deposits, and issues final invoices.",
+      "name": "Step 6: Return, Completion & Invoicing",
+      "description": "Concludes trips, calculates local city/tourist taxes, and triggers final invoice generation via the proprietary module.",
       "tags": [
-        "settlement",
+        "completion",
         "invoice",
-        "ens:ridesettlement.eth",
-        "ens:carrentaldepositrelease.eth"
+        "ens:rideinvoice.eth",
+        "ens:carrentalfinalinvoice.eth"
       ],
       "examples": [
-        "Finalize robotaxi streaming payment at drop-off",
-        "Release rental security deposit and generate final invoice"
+        "Conclude robotaxi trip and trigger invoice settlement",
+        "Complete rental return and generate final VAT invoice"
       ]
     },
     {
       "id": "mobility.arbitration",
-      "name": "Step 7: Calamities & On-Chain Arbitration",
-      "description": "Handles trip extensions, cancellations, refunds, and automated accident/damage claims.",
+      "name": "Step 7: Calamities & Post-Trip Resolution",
+      "description": "Handles trip extensions, cancellations, and automated accident/damage telemetry snapshots.",
       "tags": [
         "dispute",
         "claim",
-        "refund",
+        "extension",
         "ens:ridedispute.eth",
         "ens:carrentaldamageclaim.eth"
       ],
@@ -142,4 +141,3 @@
     }
   ]
 }
-
