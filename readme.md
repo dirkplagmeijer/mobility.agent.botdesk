@@ -80,5 +80,6 @@ The passenger mobility data taxonomy, JSON-schemas, and discovery gateway templa
 
 **Crucial Architecture Notice:** To guarantee network trust, absolute security, and fraud-proof capital settlement, the core on-chain Payment and Escrow Smart Contract Module is strictly proprietary and is not publicly deployed here. Binding reservations and capital settlement require a certified `settlement_token` issued through a verified partnership.
 
-**Strategic Licensing & Co-Founding Dialogues:** Inquiries regarding core smart contract execution, private data room access, or in-depth cooperation structures are welcomed via a meeting or personal call. If you understand the upcoming transformation of the passenger mobility agent-economy, please contact me via [LinkedIn](https://linkedin.com).
+**Exploring Opportunities:** Inquiries regarding the proprietary settlement module, private data room access, or cooperation structures are welcomed via a meeting or personal call. If you see the scale of the upcoming passenger mobility transformation, reach out via [LinkedIn](https://linkedin.com).
+
 
