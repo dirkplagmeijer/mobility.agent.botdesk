@@ -5,7 +5,6 @@
 Anticipating a major mobility transformation on the way, driven by critical market forces:
 
 ➔ Global Big Tech race to build travel agents.
-
 ➔ Aggregator mobility networks cautiously accommodate plug-in API frameworks (Lyko).
 
 ➔ M2M Cost Efficiency.
