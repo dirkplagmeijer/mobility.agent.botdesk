@@ -28,7 +28,7 @@ We offer a hybrid Web2.5 discovery gateway for AI agents on which a fully automa
 
 I am a commercial entrepreneur with a clear vision and focus, inviting Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of passenger mobility under the `mobility.agent.botdesk` architecture.
 
-📩 **Connect directly via [LinkedIn](https://linkedin.com)** to explore possibilities and opportunities.
+📩 **Visit [LinkedIn](https://linkedin.com)** to connect and explore the possibilities and opportunities.
 
 ---
 
