@@ -5,21 +5,21 @@
 ## Anticipating a major mobility transformation on the way, driven by critical market forces:
 
 
+> [!IMPORTANT]
+> ➔ Global Big Tech race to build travel agents.
+>
+> ➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko).
+>
+> ➔ M2M Cost Efficiency.
+>
+> ➔ Airport Disruption: rentalcar companies have to adapt to travelers enjoying seamless robo pickup and drop-off.
+>
+> ➔ Optimized fleet utilization.
+>
+> ➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
+>
+> ➔ Passenger mobility globally runs in the trillion dollars.
 
-
-➔ Global Big Tech race to build travel agents. 
-
-➔ Mobility networks cautiously accommodate plug-in API frameworks (Lyko). 
-
-➔ M2M Cost Efficiency.
-
-➔ Airport Disruption: rentalcar compagnies have to adapt to travelers enjoying seam less robo pickup and drop-off.
-
-➔ Optimized fleet utilization.
-
-➔ AI travel assistants deployed by Big Tech require unified, open data M2M standards.
-
-➔ Passenger mobility globally runs in the trillion dollars.
 
 
 BotDesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that aims to serve as the universal protocol for the agentic economy. We provide the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
