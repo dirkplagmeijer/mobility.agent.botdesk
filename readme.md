@@ -32,6 +32,15 @@ I am a commercial entrepreneur with a clear vision and focus, inviting Web3 deve
 
 ---
 
+### 🌐 Live Web2.5 Discovery & A2A Gateway Endpoints
+To bridge today's Web2 travel ecosystems with tomorrow's autonomous Web3 settlement layer, the gateway is live and accessible via standard HTTPS and Google A2A (Agent2Agent) protocols:
+
+* **Official A2A Discovery Manifest:** `https://agentbotdesk.com`
+* **JSON-RPC 2.0 Agent Endpoint:** `POST https://agentbotdesk.com`
+* **Lightweight ENS Route Resolver:** `GET https://agentbotdesk.comroute?category=robotaxi&step=1`
+
+---
+
 ### 📂 Repository Structure
 * **`/core-architecture`** – Contains `M2M_ENS_REGISTRY.md` (The master M2M on-chain ENS directory).
 * **`/schemas/robotaxi`** – Contains `ride_taxonomy_schema.json` (Data model for on-demand passenger rides).
@@ -69,9 +78,9 @@ Each operational step maps real-world mobility logic directly to validated on-ch
 ---
 
 ### 🛠️ Technical Roadmap
-* **Phase 1 (Current Status):** Core logical frameworks, taxonomy boundaries, structural validation JSON-schemas for both **Robotaxi** and **Rental**, and the Web2.5 Discovery Gateway (`agent-card.json` + Google ADK & Edge Worker templates) are finalized.
+* **Phase 1 (Current Status — Live):** Core logical frameworks, taxonomy boundaries, structural validation JSON-schemas for both **Robotaxi** and **Rental**, and the live Web2.5 A2A Discovery Gateway (`https://agentbotdesk.com`) are deployed and operational.
 * **Phase 2 (Immediate Next Step):** Compiling the core taxonomy datasets into a unified **OpenAPI 3.0 (Swagger) Specification** (`openapi.yaml`) to enable automated SDK generation in TypeScript, Python, Go, and Rust.
-* **Phase 3 (Ecosystem Scaling):** Launching developer guidelines and connecting Web2 fleet operators to the validated M2M routing layer.
+* **Phase 3 (Ecosystem Scaling):** Phased Web2-to-Web3 onboarding — enabling legacy fleet operators and AI agents to connect via standard HTTPS today and transition seamlessly to on-chain `.eth` escrow settlement.
 
 ---
 
@@ -81,5 +90,3 @@ The passenger mobility data taxonomy, JSON-schemas, and discovery gateway templa
 **Crucial Architecture Notice:** To guarantee network trust, absolute security, and fraud-proof capital settlement, the core on-chain Payment and Escrow Smart Contract Module is strictly proprietary and is not publicly deployed here. Binding reservations and capital settlement require a certified `settlement_token` issued through a verified partnership.
 
 **Exploring Opportunities:** Inquiries regarding the proprietary settlement module, private data room access, or cooperation structures are welcomed via a meeting or personal call. If you see the scale of the upcoming passenger mobility transformation, reach out via [LinkedIn](https://linkedin.com).
-
-
