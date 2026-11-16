@@ -28,7 +28,7 @@ We offer a hybrid Web2.5 discovery gateway for AI agents on which a fully automa
 
 I am a commercial entrepreneur with a clear vision and focus, inviting Web3 developers, ecosystem architects, and strategic business developers to build and integrate the data layer for the future of passenger mobility under the `mobility.agent.botdesk` architecture.
 
-📩 **Visit [LinkedIn](https://linkedin.com)** to connect and explore the possibilities and opportunities.
+📩 **Visit [LinkedIn](https://www.linkedin.com/in/dirk-plagmeijer/)** to connect and explore the possibilities and opportunities.
 
 ---
 
@@ -37,7 +37,8 @@ To bridge today's Web2 travel ecosystems with tomorrow's autonomous Web3 settlem
 
 * **Official A2A Discovery Manifest:** `https://agentbotdesk.com`
 * **JSON-RPC 2.0 Agent Endpoint:** `POST https://agentbotdesk.com`
-* **Lightweight ENS Route Resolver:** `GET https://agentbotdesk.comroute?category=robotaxi&step=1`
+* **Lightweight ENS Route Resolver:** `GET https://agentbotdesk.com`
+
 
 ---
 
@@ -89,4 +90,4 @@ The passenger mobility data taxonomy, JSON-schemas, and discovery gateway templa
 
 **Crucial Architecture Notice:** To guarantee network trust, absolute security, and fraud-proof capital settlement, the core on-chain Payment and Escrow Smart Contract Module is strictly proprietary and is not publicly deployed here. Binding reservations and capital settlement require a certified `settlement_token` issued through a verified partnership.
 
-**Exploring Opportunities:** Inquiries regarding the proprietary settlement module, private data room access, or cooperation structures are welcomed via a meeting or personal call. If you see the scale of the upcoming passenger mobility transformation, reach out via [LinkedIn](https://linkedin.com).
+**Exploring Opportunities:** Inquiries regarding the proprietary settlement module, private data room access, or cooperation structures are welcomed via a meeting or personal call. If you see the scale of the upcoming passenger mobility transformation, reach out via [LinkedIn](https://www.linkedin.com/in/dirk-plagmeijer/).
