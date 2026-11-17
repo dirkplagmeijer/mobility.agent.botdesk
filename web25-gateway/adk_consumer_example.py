@@ -1,14 +1,14 @@
 from google.adk.agents import Agent
 from google.adk.agents.remote_a2a_agent import RemoteA2aAgent
 
-# 1. Koppel de BotDesk Mobility Gateway via de A2A Agent Card
+# 1. Connect the BotDesk Mobility Gateway via the official A2A Agent Card
 botdesk_mobility_gateway = RemoteA2aAgent(
     name="botdesk_mobility_gateway",
     description="Routes autonomous Robotaxi rides and Rental car bookings via verified M2M ENS endpoints.",
-    agent_card="https://githubusercontent.com"
+    agent_card="https://agentbotdesk.com"
 )
 
-# 2. Voorbeeld van een externe Travel Assistant die BotDesk gebruikt als sub-agent
+# 2. Example of an external Travel Assistant using BotDesk as a sub-agent
 travel_orchestrator = Agent(
     name="personal_travel_assistant",
     model="gemini-2.5-flash",
