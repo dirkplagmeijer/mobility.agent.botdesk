@@ -25,7 +25,7 @@ def resolve_m2m_endpoint(category: str, step: int) -> dict:
     }
     return routes.get(category.lower(), {}).get(step, {"error": "Invalid step or category"})
 
-# De ADK Gateway Agent die binnenkomende A2A-verzoeken afhandelt
+# The ADK Gateway Agent handling incoming A2A requests
 gateway_agent = Agent(
     name="botdesk_mobility_gateway",
     model="gemini-2.5-flash",
@@ -36,5 +36,5 @@ gateway_agent = Agent(
     tools=[resolve_m2m_endpoint]
 )
 
-# Maakt de agent direct klaar als A2A-server (leest jouw bestaande agent-card.json)
+# Exposes the agent directly as an A2A server (reads your existing agent-card.json)
 a2a_app = to_a2a(gateway_agent, agent_card="agent-card.json")
