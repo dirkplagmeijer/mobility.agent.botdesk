@@ -21,7 +21,7 @@
 
 
 
-BotDesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that provides the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
+AgentBotDesk mobility is introducing a cross-chain, highly efficient, and superior mobility taxonomy that provides the definitive open-source framework upon which Web3 developers can openly build and deploy their validated endpoints.
 
 We offer a hybrid Web2.5 discovery gateway for AI agents on which a fully automated, machine-to-machine network can be built and scaled.
 
